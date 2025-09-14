@@ -15,8 +15,14 @@ It allows users to get an advice by clicking a button.
 ![Advice App Screenshot](./images/preview.png)
 
 ## 🛠️ Technologies Used
-- React
-- Adviceslip API (https://api.adviceslip.com/advice)
+- **React.js**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **Vite**
+- **Adviceslip API**
+- **Postman**
+- **Prettier**
 
 ## 📦 Installation
 ```bash
