@@ -5,6 +5,9 @@
 A simple Advice generator app built with **React**.  
 It allows users to get an advice by clicking a button.
 
+## Live Demo
+Check out the live version of this project [here](https://react-advice-app-nine.vercel.app/).
+
 ## 🚀 Features
 - Generates an advice by clicking a button
 - Gives you the count of advices you read
